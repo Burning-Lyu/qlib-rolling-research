@@ -1,0 +1,9 @@
+{
+  "release_tag": "2026-10-19",
+  "release_url": "https://github.com/chenditc/investment_data/releases/tag/2026-10-19",
+  "archive_size_bytes": 568495695,
+  "archive_sha256": "84148086a1137d209b801079ebc1bb7e0d7229b7028f55982c0502766bd56e99",
+  "download_url": "https://github.com/chenditc/investment_data/releases/download/2026-10-19/qlib_bin.tar.gz",
+  "investment_data_commit": "b8c129b4d9b838f050eac8b1135111b3b79fc894",
+  "usage": "Data is downloaded from its provider; upstream data redistribution/commercial rights are not established."
+}

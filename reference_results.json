@@ -1,0 +1,142 @@
+{
+  "description": "Frozen metrics from the completed 2026-10-28 study and 2026-10-30 cost supplement; not output of the public script.",
+  "metrics": [
+    {
+      "kind": "main",
+      "key": "development/B0",
+      "values": {
+        "days": 486.0,
+        "mean_daily_rank_ic": 0.0641902065387218,
+        "net_cagr": 0.0935904315776752,
+        "information_ratio": 2.173354159119301,
+        "max_drawdown": -0.2689151250523465,
+        "mean_two_way_turnover": 0.137904339703119,
+        "sum_cost_rate": 0.0665579133689542
+      }
+    },
+    {
+      "kind": "main",
+      "key": "development/A",
+      "values": {
+        "days": 486.0,
+        "mean_daily_rank_ic": 0.0689916817686156,
+        "net_cagr": 0.1429259004848513,
+        "information_ratio": 2.836327735507506,
+        "max_drawdown": -0.2103394084150065,
+        "mean_two_way_turnover": 0.1615623911626005,
+        "sum_cost_rate": 0.0780613241114149
+      }
+    },
+    {
+      "kind": "main",
+      "key": "final/B0",
+      "values": {
+        "days": 383.0,
+        "mean_daily_rank_ic": 0.0402405597935889,
+        "net_cagr": 0.4033687230097806,
+        "information_ratio": 0.5272195991491508,
+        "max_drawdown": -0.1800376770883534,
+        "mean_two_way_turnover": 0.2007138972162485,
+        "sum_cost_rate": 0.0764136584176976
+      }
+    },
+    {
+      "kind": "main",
+      "key": "final/A",
+      "values": {
+        "days": 383.0,
+        "mean_daily_rank_ic": 0.0372751545458462,
+        "net_cagr": 0.4695056891500975,
+        "information_ratio": 1.1014853745927973,
+        "max_drawdown": -0.1642997273130676,
+        "mean_two_way_turnover": 0.1974114070130143,
+        "sum_cost_rate": 0.0751478144242478
+      }
+    },
+    {
+      "kind": "cost",
+      "key": "fixed/1",
+      "values": {
+        "days": 383.0,
+        "mean_daily_rank_ic": 0.0402405597935889,
+        "net_cagr": 0.4033687230097806,
+        "information_ratio": 0.5272195991491508,
+        "max_drawdown": -0.1800376770883534,
+        "mean_two_way_turnover": 0.2007138972162485,
+        "sum_cost_rate": 0.0764136584176976
+      }
+    },
+    {
+      "kind": "cost",
+      "key": "fixed/1.5",
+      "values": {
+        "days": 383.0,
+        "mean_daily_rank_ic": 0.0402405597935889,
+        "net_cagr": 0.3684223116435499,
+        "information_ratio": 0.1901790094062874,
+        "max_drawdown": -0.1836686614395382,
+        "mean_two_way_turnover": 0.2005698338332843,
+        "sum_cost_rate": 0.1145661091586615
+      }
+    },
+    {
+      "kind": "cost",
+      "key": "fixed/2",
+      "values": {
+        "days": 383.0,
+        "mean_daily_rank_ic": 0.0402405597935889,
+        "net_cagr": 0.334308129234157,
+        "information_ratio": -0.147465305758026,
+        "max_drawdown": -0.1872599723292647,
+        "mean_two_way_turnover": 0.2004108140778922,
+        "sum_cost_rate": 0.1526708117514365
+      }
+    },
+    {
+      "kind": "cost",
+      "key": "monthly/1",
+      "values": {
+        "days": 383.0,
+        "mean_daily_rank_ic": 0.0372751545458462,
+        "net_cagr": 0.4695056891500975,
+        "information_ratio": 1.1014853745927973,
+        "max_drawdown": -0.1642997273130676,
+        "mean_two_way_turnover": 0.1974114070130143,
+        "sum_cost_rate": 0.0751478144242478
+      }
+    },
+    {
+      "kind": "cost",
+      "key": "monthly/1.5",
+      "values": {
+        "days": 383.0,
+        "mean_daily_rank_ic": 0.0372751545458462,
+        "net_cagr": 0.4335780773510109,
+        "information_ratio": 0.773025142922979,
+        "max_drawdown": -0.1652137146488296,
+        "mean_two_way_turnover": 0.1972716566928778,
+        "sum_cost_rate": 0.1126693058122175
+      }
+    },
+    {
+      "kind": "cost",
+      "key": "monthly/2",
+      "values": {
+        "days": 383.0,
+        "mean_daily_rank_ic": 0.0372751545458462,
+        "net_cagr": 0.3987533130193506,
+        "information_ratio": 0.4467908114030365,
+        "max_drawdown": -0.1661243016175593,
+        "mean_two_way_turnover": 0.1971281880802363,
+        "sum_cost_rate": 0.1501530248414234
+      }
+    }
+  ],
+  "source_sha256": {
+    "development_backtest_20261028/summary.csv": "c825fb9994aee251ea1513773d7cfc05552d355129049fbecc9acf51d4328278",
+    "monthly_backtest_20261028/summary.csv": "441d8c5da44c0d219a5c48d005ce0cff9a84eae6e40f926bb37eea4e67cc2245",
+    "holdout_fixed_backtest_20261028/summary.csv": "95dc6b5e3edc3dc73ada0cc032fbaf94455e12c7e0fbbbe4b0f6e955a5d68d26",
+    "holdout_monthly_backtest_20261028/summary.csv": "84dff4b969d5bfccec32a4eb99a4fe0c807b0b2fbdcf3b165fbc82b7370dfe59",
+    "cost_stress_20261030/summary.csv": "e5f95244b3117344e694a51bb00028e1cea40e95fb1457b853aedc799dd61d59"
+  }
+}
