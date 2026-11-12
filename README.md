@@ -181,4 +181,3 @@ Alpha158内的5/10/20/30/60交易日等特征窗口，控制量价指标的回�
 - [LightGBM](https://github.com/microsoft/LightGBM)：梯度提升树实现，MIT许可。
 - [investment_data](https://github.com/chenditc/investment_data/tree/b8c129b4d9b838f050eac8b1135111b3b79fc894)：固定行情来源，仓库许可与上游行情授权需分别核对。
 
-项目名称和贡献表述限定于多因子选股的受控研究；当前范围未包含神经网络训练、自动因子挖掘、实盘交易系统或全新算法。
